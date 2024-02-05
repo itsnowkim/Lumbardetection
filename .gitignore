@@ -39,5 +39,6 @@ ENV/
 env.bak/
 venv.bak/
 
-# dataset directories
+# dataset, train directories
 dataset
+runs

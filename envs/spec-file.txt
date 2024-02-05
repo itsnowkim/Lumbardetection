@@ -1,0 +1,61 @@
+# packages in environment at C:\Users\taesh\anaconda3\envs\yolov8:
+#
+# Name                    Version                   Build  Channel
+bzip2                     1.0.8                he774522_0  
+ca-certificates           2023.12.12           haa95532_0  
+certifi                   2023.11.17               pypi_0    pypi
+charset-normalizer        3.3.2                    pypi_0    pypi
+colorama                  0.4.6                    pypi_0    pypi
+contourpy                 1.2.0                    pypi_0    pypi
+cycler                    0.12.1                   pypi_0    pypi
+filelock                  3.13.1                   pypi_0    pypi
+fonttools                 4.47.2                   pypi_0    pypi
+fsspec                    2023.12.2                pypi_0    pypi
+hub-sdk                   0.0.3                    pypi_0    pypi
+idna                      3.6                      pypi_0    pypi
+jinja2                    3.1.3                    pypi_0    pypi
+kiwisolver                1.4.5                    pypi_0    pypi
+labelme2yolo              0.1.3                    pypi_0    pypi
+libffi                    3.4.4                hd77b12b_0  
+markupsafe                2.1.3                    pypi_0    pypi
+matplotlib                3.8.2                    pypi_0    pypi
+mpmath                    1.3.0                    pypi_0    pypi
+networkx                  3.2.1                    pypi_0    pypi
+numpy                     1.26.3                   pypi_0    pypi
+onnx                      1.15.0                   pypi_0    pypi
+opencv-python             4.9.0.80                 pypi_0    pypi
+openssl                   3.0.12               h2bbff1b_0  
+packaging                 23.2                     pypi_0    pypi
+pandas                    2.1.4                    pypi_0    pypi
+pillow                    10.0.1                   pypi_0    pypi
+pip                       23.3.1          py310haa95532_0  
+protobuf                  4.25.2                   pypi_0    pypi
+psutil                    5.9.7                    pypi_0    pypi
+py-cpuinfo                9.0.0                    pypi_0    pypi
+pyparsing                 3.1.1                    pypi_0    pypi
+python                    3.10.13              he1021f5_0  
+python-dateutil           2.8.2                    pypi_0    pypi
+pytz                      2023.3.post1             pypi_0    pypi
+pyyaml                    6.0.1                    pypi_0    pypi
+requests                  2.31.0                   pypi_0    pypi
+scipy                     1.11.4                   pypi_0    pypi
+seaborn                   0.13.1                   pypi_0    pypi
+setuptools                68.2.2          py310haa95532_0  
+six                       1.16.0                   pypi_0    pypi
+sqlite                    3.41.2               h2bbff1b_0  
+sympy                     1.12                     pypi_0    pypi
+thop                      0.1.1-2209072238          pypi_0    pypi
+tk                        8.6.12               h2bbff1b_0  
+torch                     2.1.2+cu121              pypi_0    pypi
+torchaudio                2.1.2+cu121              pypi_0    pypi
+torchvision               0.16.2+cu121             pypi_0    pypi
+tqdm                      4.66.1                   pypi_0    pypi
+typing-extensions         4.9.0                    pypi_0    pypi
+tzdata                    2023.4                   pypi_0    pypi
+ultralytics               8.1.2                    pypi_0    pypi
+urllib3                   2.1.0                    pypi_0    pypi
+vc                        14.2                 h21ff451_1  
+vs2015_runtime            14.27.29016          h5e58377_2  
+wheel                     0.41.2          py310haa95532_0  
+xz                        5.4.5                h8cc25b3_0  
+zlib                      1.2.13               h8cc25b3_0  
