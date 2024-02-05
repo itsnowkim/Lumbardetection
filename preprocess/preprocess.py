@@ -48,7 +48,6 @@ def resize_imgs(directory):
                     with open(json_path, 'w') as json_file:
                         json.dump(data, json_file, indent=4)
 
-
 def split_dataset(dest_dir, test_ratio):
     train_dir = os.path.join(dest_dir, 'train')
     test_dir = os.path.join(dest_dir, 'test')
