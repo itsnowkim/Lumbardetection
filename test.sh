@@ -1,0 +1,1 @@
+yolo segment val data=dataset/dataset.yaml model=runs/segment/train/weights/best.pt imgsz=640
